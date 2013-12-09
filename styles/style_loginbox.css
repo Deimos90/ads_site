@@ -1,0 +1,106 @@
+#loginForm {
+	width: 290px;
+	padding: 24px 24px 0;
+	margin: 200px auto 0;
+	background: #FEFEFE;
+	border: 1px solid #CAD8DE;
+	font: 14px/18px Arial, Tahoma, sans-serif;
+}
+#loginForm .field {
+	margin: 0 0 18px;
+}
+#loginForm .field label {
+	display: block;
+	margin: 0 0 11px;
+}
+#loginForm .field input {
+	width: 262px;
+	padding: 9px 13px;
+	border: 1px solid #D2D9DC;
+}
+#loginForm .field input:focus {
+	border-color: #acacac;
+}
+#forgot {
+	float: right;
+	font-size: 11px;
+	color: #ababab;
+	text-decoration: none;
+	margin: 0;
+}
+#forgot:hover {
+	color: #444;
+}
+#loginForm .submit {
+	margin: 30px -24px 0;
+	padding: 22px 24px;
+	background: #F0F5F7;
+	border-top: 1px solid #CAD8DE;
+
+  font-size: 11px;
+}
+#remember {
+	display: block;
+	margin: 5px 0 0;
+	cursor: pointer;
+}
+#remember input {
+	margin: 0 4px 0 0;
+	vertical-align: middle;
+}
+#loginForm .submit button {
+	float: right;
+	cursor:pointer;
+}
+#closelogin{
+	margin: -20px -20px 0;
+	float: right;
+	cursor:pointer;
+	font: 11px Arial, Tahoma, sans-serif;	
+}
+#repas {
+	width: 290px;
+	padding: 24px 24px 0;
+	margin: 200px auto 0;
+	background: #FEFEFE;
+	border: 1px solid #CAD8DE;
+	font: 14px/18px Arial, Tahoma, sans-serif;
+}
+#repas .field {
+	margin: 0 0 18px;
+}
+#repas .field label {
+	display: block;
+	margin: 0 0 11px;
+}
+#repas .field input {
+	width: 262px;
+	padding: 9px 13px;
+	border: 1px solid #D2D9DC;
+}
+#repas .field input:focus {
+	border-color: #acacac;
+}
+
+#repas .submit {
+	margin: 30px -24px 0;
+	padding: 22px 24px;
+	background: #F0F5F7;
+	border-top: 1px solid #CAD8DE;
+
+  font-size: 11px;
+}
+#repas .submit button {
+	float: right;
+	cursor:pointer;
+	background: #ffffff;
+	border-bottom: 1px solid #CAD8DE;
+	border-left: 1px solid #CAD8DE;
+	border-right: 1px solid #CAD8DE;
+	border-top: 1px solid #CAD8DE;
+	font: bold 13px Arial, Tahoma, sans-serif;
+	height: 28px;
+	color:#333333;
+	text-align: center;
+	width: 110px;	
+}
